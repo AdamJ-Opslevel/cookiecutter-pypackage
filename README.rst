@@ -23,6 +23,8 @@ Cookiecutter_ template for a Python package.
 Features
 --------
 
+Also, this new line I'm adding, just for me.
+
 * Testing setup with ``unittest`` and ``python setup.py test`` or ``pytest``
 * Travis-CI_: Ready for Travis Continuous Integration testing
 * Tox_ testing: Setup to easily test for Python 3.6, 3.7, 3.8
