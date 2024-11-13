@@ -23,7 +23,7 @@ Cookiecutter_ template for a Python package.
 Features
 --------
 
-Also, this new line I'm adding, just for me.
+Also, this new line I'm adding, just for me. But THIS time, I'll make a pull request.
 
 * Testing setup with ``unittest`` and ``python setup.py test`` or ``pytest``
 * Travis-CI_: Ready for Travis Continuous Integration testing
